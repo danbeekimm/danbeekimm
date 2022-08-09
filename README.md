@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=DanBee's_GitHub&animation=fadeIn)
 ### 안녕하세요 저의 Git에 오신걸 환영합니다 👋
 
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanBeeKim&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semi_pj)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wlsgud623/bitcamp_901_05.git))
