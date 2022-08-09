@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=DanBee's_GitHub&animation=fadeIn)
 ### 안녕하세요 저의 Git에 오신걸 환영합니다 👋
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
-  <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+<a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
