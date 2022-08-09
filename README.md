@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&&logo=appveyor&logoColor=000000"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDanBee&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimDanBee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbeekimm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
