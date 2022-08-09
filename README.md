@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&&logo=appveyor&logoColor=000000"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeekim)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeekim&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanBeeKim&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
