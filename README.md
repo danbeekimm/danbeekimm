@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ### 안녕하세요 저의 Git에 오신걸 환영합니다 👋
 
 <a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&&logo=appveyor&logoColor=000000"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanBeeKim&show_icons=true&theme=dracula)
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/wlsgud623/bitcamp_901_05.git)
