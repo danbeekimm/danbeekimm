@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanBeeKim&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-bitcamp_901_05)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/wlsgud623/bitcamp_901_05.git))
+ wlsgud623/bitcamp_901_05)]((https://github.com/wlsgud623/bitcamp_901_05.git))
