@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Fkdb.__.97&count_bg=%23E4E4E4&title_bg=%23D86666&icon=instagram.svg&icon_color=%23E7E7E7&title=Instagram&edge_flat=false"/></a>
 
+<a href="https://www.instagram.com/kdb.__.97" target="_blank"><img src="https://img.shields.io/badge/label-#E4405F?style=for-the-badge&logo=appveyor&logoColor=000000"/></a>
 
 ![danbeekimm's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula)
   
