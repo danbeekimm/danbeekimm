@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat&&logo=appveyor&logoColor=000000"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeekim)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeekim&hide=contribs,prs)
