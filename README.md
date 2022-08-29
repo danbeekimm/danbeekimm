@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=DanBee's_GitHub&animation=fadeIn)
 
 <div align=center>   
-  <h4>안녕하세요 저의 Github에 오신걸 환영합니다.</h4>
+  <h4>안녕하세요 저의 Github에 오신걸 환영합니다ㅎㅎ.</h4>
 
 <a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.instagram.com%2Fkdb.__.97&count_bg=%23E4E4E4&title_bg=%23D86666&icon=instagram.svg&icon_color=%23E7E7E7&title=Instagram&edge_flat=false"/></a>
