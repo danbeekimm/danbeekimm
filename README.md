@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<br/><br/>
+  
+<br/><br/><br/><br/>
   
 ![danbeekimm's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula)
   
