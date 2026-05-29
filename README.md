@@ -18,7 +18,7 @@
 
 <a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:kdb7456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanbeekimm&count_bg=%236DB33F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+<img src="https://komarev.com/ghpvc/?username=danbeekimm&color=6DB33F&style=flat-square&label=visitors"/>
 
 </div>
 
@@ -58,7 +58,7 @@
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=Grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
@@ -81,12 +81,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282A36"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbeekimm&layout=compact&theme=dracula&hide_border=true&bg_color=282A36&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbeekimm&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danbeekimm&theme=dracula&hide_border=true&background=282A36"/>
+<img src="https://streak-stats.demolab.com/?user=danbeekimm&theme=dracula&hide_border=true"/>
 
 </div>
 
