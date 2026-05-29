@@ -16,9 +16,9 @@
 
 <br/>
 
-<a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="mailto:kdb7456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=danbeekimm&color=6DB33F&style=flat-square&label=visitors"/>
+<a href="https://velog.io/@danbeekimm"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="mailto:kdb7456@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=danbeekimm&color=6DB33F&style=flat-square&label=visitors" alt="visitors"/>
 
 </div>
 
@@ -27,42 +27,21 @@
 <!-- ============ TECH STACK ============ -->
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Language**
+**Language & Backend**
 
-![Java](https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,js&theme=dark" />
 
-**Backend**
+**Data & Infra**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%20%C2%B7%20QueryDSL-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,githubactions&theme=dark" />
 
-</td>
-<td valign="top" width="50%">
+**Observability & Tools**
 
-**Infra / Data**
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,idea&theme=dark" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-
-**Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -81,14 +60,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbeekimm&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=danbeekimm&theme=dracula&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbeekimm&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 </div>
 
 <!-- ============ FOOTER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,50:4479A1,100:6DB33F&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,50:4479A1,100:6DB33F&height=120&section=footer" />
