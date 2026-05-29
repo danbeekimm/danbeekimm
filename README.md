@@ -55,15 +55,6 @@
 
 <br/>
 
-<!-- ============ STATS ============ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=danbeekimm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbeekimm&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" />
-
-</div>
 
 <!-- ============ FOOTER ============ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,50:4479A1,100:6DB33F&height=120&section=footer" />
